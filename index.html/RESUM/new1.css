@@ -1,0 +1,552 @@
+body{
+    background-color: #E6E6E6;
+}
+.headernav{
+    height: 50PX;
+    width: 100%;
+    background-color: darkgrey;
+    position: relative;
+    left: 10px;
+   font-size: 20px;
+    
+}
+.headernav1{
+    position: relative;
+    left: 10px;
+   font-size: 20px;
+    bottom: 10px;
+    
+}
+.header{
+    position: relative;
+    left: 100px;
+   font-size: 50px;
+    top: 50px;
+}
+.haeder2{
+    position: relative;
+    right:  200px;
+   font-size: 20px;
+   top: 20px;
+    
+}
+
+.haede{
+position: relative;
+    left: 130px;
+    position: relative;
+    top: 50px;
+    font-size: 30px;
+
+}
+
+p{
+    position: relative;
+    left: 300px;
+}
+.hello{
+    position: relative;
+    left: 100px;
+    top: 70px;
+    font-size: 30px;
+}
+
+.imga{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    position: relative;
+    left: 40px;
+    bottom: 90px;
+   
+}
+.header3{
+     position: relative;
+    right:  40px;
+   font-size: 20px;
+   bottom:  200px;
+}
+
+.he{
+    font-size: 100px;
+}
+.on{
+    background-color: aqua;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.tow{
+    background-color: rebeccapurple;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.thre{
+   background-color: red;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%; 
+}
+
+.tt{
+    display: flex;
+    position: relative;
+    left: 40%;
+    top:-40%;     
+}
+
+p{
+    position: relative;
+    right: 100px;
+    
+}
+
+.mye{
+   position: relative;
+    left: 170px;
+    bottom: 130px;
+    font-size: 30px;
+
+}
+
+.mye1{
+   position: relative;
+    left: 330px;
+    bottom: 190px;
+    font-size: 30px;
+
+}
+
+.mye2{
+   position: relative;
+    left: 480px;
+    bottom: 260px;
+    font-size: 30px;
+    
+    
+}
+
+.ppp{
+    position: relative;
+     bottom: 150px;
+    left: 450px; 
+}
+
+/* Pictures-2 */
+
+.icon{
+    height:100px;
+    width: 100%;
+    background-color:crimson;
+    
+}
+
+
+
+.m{
+   background-color: aqua;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    position: relative;
+    left: 70px;
+    bottom: 95px;
+}
+
+.a{
+    background-color: aqua;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    position: relative;
+    left: 300px;
+    top: -155px;
+     
+}
+
+.y{
+    background-color: aqua;
+    width: 40px;
+    height:40px;
+    border-radius: 50%;
+    position: relative;
+    left: 550px;
+    top: -210px;
+}
+
+.u{
+   background-color: aqua;
+    width: 40px;
+    height:40px;
+    border-radius: 50%;
+    position: relative;
+    left: 750px;
+    top: -250px;
+}
+
+
+    
+
+
+.icon1{
+    height: 20px;
+    width: 20px;
+    position: relative;
+    left: 80px;
+    top: -280px;
+    
+}
+
+.icon2{
+    height: 20px;
+    width: 20px;
+    position: relative;
+    left: 310px;
+    top: -320px;
+    
+}
+
+.icon3{
+    height: 20px;
+    width: 20px;
+    position: relative;
+    left: 565px;
+    top: -335px;
+}
+
+.icon4{
+    height: 20px;
+    width: 20px;
+    position: relative;
+    left: 762px;
+    top: -355px;
+}
+
+.callmy{
+    font-size: 10px;
+    color: azure;
+}
+.brgrf1{
+    height: 20px;
+    width: 20px;
+    position: relative;
+    right: 170px;
+    top: 30px;
+    color: azure;
+}
+
+.contacted{
+    font-size: 10px;
+    color: azure;
+}
+
+.brgrf2{
+    height: 20px;
+    width: 20px;
+    position: relative;
+   left:70px;
+    bottom: 5px;
+    color: azure;
+}
+.followme{
+    font-size: 10px;
+    color: azure;
+}
+.brgrf3{
+    height: 20px;
+    width: 20px;
+    position: relative;
+   left:320px;
+    bottom: 30px;
+    color: azure;
+}
+.bynicola{
+    font-size: 10px;
+    color: azure;
+}
+.brgrf4{
+    height: 20px;
+    width: 20px;
+    position: relative;
+   left:500px;
+    bottom: 70px;
+    color: azure;
+}
+
+/* Pictures-3 */
+
+.RESUMEt{
+    height: 50px;
+    width: 50px;
+    position: relative;
+    right: 170px;
+    font-size: 50px;
+    bottom:  350px;
+}
+.html5{
+    position: relative;
+    bottom: 400px;
+}
+hr{
+    position: relative;
+    top:   90px;
+    right: 95px;
+}
+.RESUME1{
+    background-color: firebrick; 
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    position: relative;
+    top: 100px;
+    left: 170px;
+}
+.prgrf1{
+   color: white;
+    position: relative;
+    right: 250px;;
+    top: 60px;
+    
+}
+.hr1{
+   position: relative;
+    bottom: 60px;
+    left: 80px;
+
+}
+.hrtow{
+   position: relative;
+    top:480px;
+    left: -5px; 
+}
+.RESUME2{
+    background-color: firebrick; 
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    position: relative;
+    top:  40px;
+}
+.RESUME3{
+    background-color: firebrick; 
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    position: relative;
+    top: 500px;
+}
+.prgrf2{
+    color: white;
+    position:relative;
+    right: 250px;
+    top:55px;
+}
+.RESUMEPictures1{
+    position: relative;
+    left: 170px;
+    top:-45px;
+    font-size: 12px;
+}
+.RESUMEPictures2{
+    position: relative;
+    left: 170px;
+    top: -10px;
+    font-size: 12px;
+}
+.RESUMEPictures3{
+    position: relative;
+    left: 180px;
+    bottom:-20px;
+    font-size: 12px;
+}
+.prgrf3{
+    color: white;
+    position:relative;
+    left: 40px;
+    top:70px;
+}
+.spanjob1{
+    position: relative;
+    font-size: 18px;
+    bottom: 10px;
+}
+
+.formPictures1{
+    background-color: darkturquoise;
+    height:50px;
+    width: 50px;
+    border-radius: 50%;
+    position: relative;
+    left: 720px;
+    bottom: 60px;
+}
+.formPictures2{
+    background-color: darkturquoise;
+    height:50px;
+    width: 50px;
+    border-radius: 50%;
+    position: relative;
+    left: 720px;
+   bottom: 70px;
+}
+.formimg1{
+    position: relative;
+    top: 12px;
+    left: 12px;
+}
+.pform1{
+    height: 20px;
+    width: 20px;
+    position: relative;
+    left: 725px;
+    bottom: 65px;
+    
+}
+.hrform1{
+    width: 150px;
+    position: relative;
+    left: 300px;
+    top:-70px;
+}
+.pform2{
+    position: relative;
+    left: 720px;
+    top: -70px;
+    font-size:12px; 
+}
+.pform3{
+    position: relative;
+    left: 720px;
+    top: 30px;
+}
+.hrform2{
+     width: 150px;
+    position: relative;
+    left: 300px;
+    top:30px;
+}
+.LATEST1{
+    position: relative;
+    font-size: 40px;
+}
+.hrp1{
+    width:1200px; 
+    position: relative;
+    top: 10px;
+}
+.LATEST2{
+   margin-left: 200px;
+}
+.foormlLATEST2{
+    background-color: darkturquoise;
+    width:120px;
+    height:120px;
+    border-radius: 50%;
+    position: relative;
+     left: 760px;
+        bottom: 330px;
+}
+.pfoormlLATEST2{
+    position: relative;
+    font-size: 18px;
+    color: white;
+    left: 25px;
+    top: 50px;
+}
+.hrp2{
+    width: 330px;
+    left: 20px;
+    top: 110px;
+}
+.spanpform{
+    position: relative;
+    font-size: 18px;
+    bottom: 30px;
+    left: 20 px;
+}
+.foormlLATEST3{
+    position:relative;
+    font-size: 12px;
+    left: 25px;
+    top: 150px;
+}
+.imge6{
+     position: relative;
+    left: 200px;
+}
+.prgrfspan{
+    position: relative;
+    font-size: 40px;
+    left: 100px;
+}
+.noumbr7{
+    position: relative;
+    left: 100px;
+    bottom: 40px;
+    font-size: 18px;
+}
+
+.jphom{
+    position: relative;
+   bottom: 85px;
+    right:- 160px;
+    font-size: 12px;
+    
+}
+.CONTACT7{ 
+    position: relative;
+    font-size: 60px;
+    left:100px;
+    bottom:  10px;
+}
+.lookingp{
+    position: relative;
+    font-size: 12px;
+    bottom: 90px;
+}
+.colorinpot{
+    padding: 5px;
+    width: 405px;
+    background-color: #DF0101;
+    position: relative;
+    left:150px;
+    bottom: 100px;
+}
+.submiting{
+    width: 55px;
+    height: 30px;
+    background-color: darkturquoise;
+    position: relative;
+    bottom: 80px;
+    left: 540px;
+}
+.colortextarea{
+    width: 315px;
+    background-color: #DF0101;
+    padding: 50px;
+    position: relative;
+    left: 120px;
+    bottom:100px;
+}
+.iconfacebook{
+    position: relative;
+    bottom: 150px;
+    left: 100px;
+}
+.pfacebook{
+    position: relative;
+    bottom: 10px;
+    left: 5px;
+    font-size: 10px;
+}
+
+
+
+
+    
+
+
+
+
